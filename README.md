@@ -25,8 +25,8 @@ Built and currently manage a personal server environment utilizing a Raspberry P
 Before diving full-time into data, I spent time studying quantitative finance and trading (Jane Street Summer Program '23) and worked for years as a Rock Wall Supervisor and Belayer. When I'm not writing SQL or tinkering with my Docker containers, you can usually find me researching personal finance optimization or at the local climbing gym.
 
 ## 📫 Let's Connect
-*   **LinkedIn:** [Add your LinkedIn URL here]
-*   **Email:** [Add your email address here]
+*   **LinkedIn:** [https://www.linkedin.com/in/aaronvillegas1/]
+*   **Email:** [akvilleg@uci.edu]
 
 <!--
 **AaronVillegas5/AaronVillegas5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
